@@ -10,7 +10,7 @@
 2. School of Business and Management Tehnologies (Web-designer)
 ## Code Example 
 ``` 
-__JavaScript Code__ 
+JavaScript Code 
 <script>
     alert( 'Привет, мир!' );
   </script>
