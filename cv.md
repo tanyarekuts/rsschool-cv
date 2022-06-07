@@ -4,7 +4,7 @@
 * Tel (Georgia): +995 595 907592
 * Email: tanya.rekuts11@yandex.ru 
 * Discord: tanyarekuts
-* [Linkedin] (https://www.linkedin.com/in/tatsiana-rekuts-23847b190/)
+* [Linkedin](https://www.linkedin.com/in/tatsiana-rekuts-23847b190/)
 ## Education
 1. Belarussian State University (E-commerce Marketing)
 2. School of Business and Management Tehnologies (Web-designer)
